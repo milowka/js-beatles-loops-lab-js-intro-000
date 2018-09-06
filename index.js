@@ -30,6 +30,7 @@ function iLoveTheBeatles (n) {
   do { var newarray = array.push ("I love the Beatles!")
 } while (n<15)
   {[newarray*n];
+    n++;
 
 }
 return array
